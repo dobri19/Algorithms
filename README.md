@@ -1,2 +1,2 @@
 # Algorithms
-My implementations of algorithms in c#
+My implementations of algorithms in C#!
