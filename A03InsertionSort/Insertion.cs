@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace A03InsertionSort
 {
@@ -37,6 +38,25 @@ namespace A03InsertionSort
             {
                 Console.Write(item + " ");
             }
+        }
+    }
+    public class InsertionMethods
+    {
+        public static List<int> InsertMethod(List<int> numbers)
+        {
+            for (int i = 1; i < numbers.Count; i++)
+            {
+                int j = i;
+                while ((j > 0) && (numbers[j] < numbers[j - 1]))
+                {
+                    int temp = numbers[j - 1];
+                    numbers[j - 1] = numbers[j];
+                    numbers[j] = temp;
+                    j--;
+                }
+            }
+
+            return numbers;
         }
     }
 }
