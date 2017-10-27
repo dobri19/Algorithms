@@ -8,6 +8,10 @@ namespace A06QuickSortOptimized
 {
     public class Quickest
     {
+        // When implemented well, it can be about two or three times faster than its main competitors, 
+        // merge sort and heapsort. Mathematical analysis of quicksort shows that, on average, 
+        // the algorithm takes O(n log n) comparisons to sort n items. In the worst case, 
+        // it makes O(n2) comparisons, though this behavior is rare.
         public static void Main(string[] args)
         {
             Stopwatch watch = new Stopwatch();
