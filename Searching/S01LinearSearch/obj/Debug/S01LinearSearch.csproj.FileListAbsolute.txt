@@ -1,0 +1,6 @@
+E:\GitHubProjects\Algorithms\Searching\S01LinearSearch\bin\Debug\S01LinearSearch.exe.config
+E:\GitHubProjects\Algorithms\Searching\S01LinearSearch\bin\Debug\S01LinearSearch.exe
+E:\GitHubProjects\Algorithms\Searching\S01LinearSearch\bin\Debug\S01LinearSearch.pdb
+E:\GitHubProjects\Algorithms\Searching\S01LinearSearch\obj\Debug\S01LinearSearch.csprojResolveAssemblyReference.cache
+E:\GitHubProjects\Algorithms\Searching\S01LinearSearch\obj\Debug\S01LinearSearch.exe
+E:\GitHubProjects\Algorithms\Searching\S01LinearSearch\obj\Debug\S01LinearSearch.pdb

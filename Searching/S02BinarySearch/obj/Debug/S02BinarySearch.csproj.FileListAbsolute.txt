@@ -1,0 +1,6 @@
+E:\GitHubProjects\Algorithms\Searching\S02BinarySearch\bin\Debug\S02BinarySearch.exe.config
+E:\GitHubProjects\Algorithms\Searching\S02BinarySearch\bin\Debug\S02BinarySearch.exe
+E:\GitHubProjects\Algorithms\Searching\S02BinarySearch\bin\Debug\S02BinarySearch.pdb
+E:\GitHubProjects\Algorithms\Searching\S02BinarySearch\obj\Debug\S02BinarySearch.csprojResolveAssemblyReference.cache
+E:\GitHubProjects\Algorithms\Searching\S02BinarySearch\obj\Debug\S02BinarySearch.exe
+E:\GitHubProjects\Algorithms\Searching\S02BinarySearch\obj\Debug\S02BinarySearch.pdb
